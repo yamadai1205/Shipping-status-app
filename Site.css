@@ -1,0 +1,53 @@
+﻿body {
+    background-color: #2F3037;
+    margin: 0;
+    padding: 0;
+}
+
+.watch-wrapper {
+    margin: 0;
+    padding: 0;
+    background-color: white;
+}
+
+.watch {
+    margin-top: 1%;
+    padding: 0;
+    width: 100%;
+    text-align: center;
+}
+
+.watch-hour-to-sec {
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 800;
+}
+
+.watch-year-to-date {
+    margin: 0;
+    padding: 0;
+    font-size: 18px;
+}
+
+
+.result-wrapper {
+    margin-top: 2%;
+}
+
+.result-area {
+    text-align: center;
+}
+
+.result-title-outer {
+    color: #999;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.result-count-outer {
+    color: azure;
+    font-size: 80px;
+    font-weight: 800;
+}
+
+
